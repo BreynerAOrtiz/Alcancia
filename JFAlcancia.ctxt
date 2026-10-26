@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Oct 26 14:35:35 COT 2026
+comment0.target=JFAlcancia
+comment1.target=JFAlcancia()
+comment2.target=void crearInterfaz()
+comment3.params=valor
+comment3.target=void agregarMonedas(int)
+comment4.target=void vaciarAlcancia()
+comment5.target=void actualizarInterfaz()
+numComments=6
